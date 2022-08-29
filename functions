@@ -1,0 +1,13 @@
+Dup2(): Cria uma cópia de um fd existente e fornece um novo fd com as mesmas características que aquele passado
+
+Acess(): Verifica se o processo de chamada pode acessar o nome do caminho do arquivo
+
+Execve(): Executa o programa referido pelo caminho
+
+Pipe(): Usada para abrir descritores de arquivos
+
+Fork(): Usada para criar um novo processo, que é chamado de processo filho, que é executado simultaneamente com o processo que faz a chamada
+
+Waitpid(): Monitora um processo filho especifico criado pelo fork
+
+Open(caminho, flags, modo): Abre o arquivo especificado por pathname
